@@ -25,7 +25,8 @@
 				"esbenp.prettier-vscode",
 				"formulahendry.auto-rename-tag",
 				"oderwat.indent-rainbow",
-				"trufflesuite-csi.truffle-vscode"
+				"trufflesuite-csi.truffle-vscode",
+				"JuanBlanco.solidity"
 			]
 		}
 	},
